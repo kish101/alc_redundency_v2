@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"master_name": "ALC",
+	"master_ip": "1.2.3.4",
+	"slave_name": "ALC_slave",
+	"slave_ip": "192.178.44.5",
+	"is_master": true,
+	"sequence_number": 3,
+	"exp_state": "0000000000000000",
+	"exp_seq": "16"
+}
